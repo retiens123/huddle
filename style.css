@@ -58,10 +58,7 @@ width: 30px;
 cursor: pointer;}
 
 @media  (max-width: 600px) {
-    
-    * {padding: 0;
-    margin: 0;}
-
+   
     .container {width: 350px;
         flex-direction: column;
         text-align: center;}
